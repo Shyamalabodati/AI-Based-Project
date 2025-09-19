@@ -24,5 +24,5 @@ It is built using **HTML, CSS, and JavaScript** and uses the **Web Speech API** 
 ## 🎯 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ai-faq-chatbot-frontend.git
+   git clone https://github.com/Shyamalabodati/AI-Based-Project.git
 
